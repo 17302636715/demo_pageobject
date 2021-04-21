@@ -1,0 +1,4 @@
+test_adddept:
+  datas:
+    - DEPT_TEST1
+    - DEPT_TEST2
